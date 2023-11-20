@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Aspiring Full Stack Developer with proficiency in JAVA,HTML, JavaScript and CSS. Collaborative, team player proficient in working with teams.
+
 🔭 I’m currently working on my Tech Skills<br>🌱 I’m a JAVA Backend Developer<br>❓ Ask me about anything related to JAVA and related technologies<br>⚡ Fun fact: I prefer coding over sleep 😁<br>⭐ Check out my repositories and leave a star if you like them<br>Check my Portfolio
 
 
